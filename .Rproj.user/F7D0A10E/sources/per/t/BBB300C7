@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549310367495.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "184903396",
+    "id" : "BBB300C7",
+    "lastKnownWriteTime" : 1549310311,
+    "last_content_update" : 1549310311,
+    "path" : "C:/newrepository/academic-kickstart/netlify.toml",
+    "project_path" : "netlify.toml",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

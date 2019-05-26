@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1969854734",
+    "hash" : "0",
     "id" : "9DCE8BB3",
-    "lastKnownWriteTime" : 1549310311,
-    "last_content_update" : 1549310311,
+    "lastKnownWriteTime" : 1558906688,
+    "last_content_update" : 1558906688071,
     "path" : "C:/newrepository/academic-kickstart/config/_default/menus.toml",
     "project_path" : "config/_default/menus.toml",
     "properties" : {
+        "cursorPosition" : "33,12",
+        "scrollLine" : "16"
     },
     "relative_order" : 3,
     "source_on_save" : false,

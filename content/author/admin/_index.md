@@ -29,7 +29,7 @@ interests = [
 [[education.courses]]
   course = "PhD in Biomedical Engineering"
   institution = "Johns Hopkins University School of Medicine"
-  year = 2018-
+#  year = 2018
 
 # [[education.courses]]
 #   course = "MEng in Artificial Intelligence"
@@ -39,7 +39,7 @@ interests = [
 [[education.courses]]
   course = "B.Eng in Biomedical Engineering"
   institution = "Xi'an Jiaotong University"
-  year = 2018
+#  year = 2018
 
 # Social/Academic Networking
 #

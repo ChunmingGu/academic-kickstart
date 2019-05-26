@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "4015670786",
+    "hash" : "0",
     "id" : "4DC62196",
-    "lastKnownWriteTime" : 1558904523,
-    "last_content_update" : 1558904523380,
+    "lastKnownWriteTime" : 1558904905,
+    "last_content_update" : 1558904905296,
     "path" : "C:/newrepository/academic-kickstart/content/author/admin/_index.md",
     "project_path" : "content/author/admin/_index.md",
     "properties" : {
-        "cursorPosition" : "41,1",
-        "scrollLine" : "21"
+        "cursorPosition" : "64,74",
+        "scrollLine" : "48"
     },
     "relative_order" : 4,
     "source_on_save" : false,

@@ -25,7 +25,7 @@ date_format = "January 2006"
   location = "Maryland"
   date_start = "2018-08-31"
   date_end = ""
-  description = """
+  description = ""
   Responsibilities include:""
   
 
@@ -36,7 +36,7 @@ date_format = "January 2006"
   location = "Germany"
   date_start = "2018-02-12"
   date_end = "2018-05-21"
-  description = """"""
+  description = ""
   
 [[experience]]
   title = "Research Assistant"
@@ -45,7 +45,7 @@ date_format = "January 2006"
   location = "California"
   date_start = "2017-07-12"
   date_end = "2017-09-15"
-  description = """"""  
+  description = "" 
   
 [[experience]]
   title = "Visiting Student"
@@ -54,6 +54,6 @@ date_format = "January 2006"
   location = "British Columbia"
   date_start = "2016-07-12"
   date_end = "2016-08-15"
-  description = """"""    
+  description = ""    
 
 +++

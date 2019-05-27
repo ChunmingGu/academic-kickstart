@@ -26,8 +26,9 @@ date_format = "January 2006"
   date_start = "2018-08-31"
   date_end = ""
   description = """"""
-  Responsibilities include:""""""
+  Responsibilities include:
   
+  """
 
 [[experience]]
   title = "Research Assistant"

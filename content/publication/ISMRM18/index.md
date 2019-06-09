@@ -1,10 +1,10 @@
 +++
-title = "Treatment Response Prediction Using Texture Features From Longitudinal Diffusion MRI in Sarcoma Patients"
+title = "Longitudinal Diffusion MRI for Predicting Response to Radiotherapy in Sarcoma Patients"
 date = 2018-06-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Y Gao", "C Gu", "J Kim", "M Cao", "J Fu", "A Kalbasi", "D Ruan", "J Lewis", "D Low", "P Hu", "Y Yang"]
+authors = ["Y Gao", "C Gu", "J Kim", "M Cao", "A Kalbasi", "D Ruan", "D Low", "P Hu", "Y Yang"]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ authors = ["Y Gao", "C Gu", "J Kim", "M Cao", "J Fu", "A Kalbasi", "D Ruan", "J 
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *MEDICAL PHYSICS*"
+publication = "In *Proc 26th Annual Meeting ISMRM, Paris*"
 #publication_short = "In *SITIS*"
 
 # Abstract and optional shortened version.
@@ -57,7 +57,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "http://archive.ismrm.org/2018/3803.html"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

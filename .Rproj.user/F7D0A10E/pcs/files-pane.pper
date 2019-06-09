@@ -1,8 +1,12 @@
 {
-    "path" : "C:/newrepository/academic-kickstart/content/post",
+    "path" : "C:/newrepository/academic-kickstart/content/home",
     "sortOrder" : [
         {
-            "ascending" : true,
+            "ascending" : false,
+            "columnIndex" : 3
+        },
+        {
+            "ascending" : false,
             "columnIndex" : 2
         }
     ]

@@ -34,20 +34,26 @@ weight = 20
 #  description = "50%"  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-#  description = "50%"
-  
-[[feature]]
   icon = "file-code"
   icon_pack = "fas"
-  name = "matlab"
+  name = "Matlab"
 #  description = "50%"
 
 [[feature]]
   icon = "code"
   icon_pack = "fas"
   name = "C++"
+#  description = "50%"
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fas"
+  name = "python"
+#  description = "50%"
+
+[[feature]]
+  icon = "camera-retro"
+  icon_pack = "fas"
+  name = "Photography"
 #  description = "50%"
 +++

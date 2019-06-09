@@ -46,8 +46,8 @@ weight = 20
 #  description = "50%"
 
 [[feature]]
-  icon = "fa-python"
-  icon_pack = "fas"
+  icon = "python"
+  icon_pack = "fab"
   name = "python"
 #  description = "50%"
 
